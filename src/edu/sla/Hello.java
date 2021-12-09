@@ -9,6 +9,8 @@ public class Hello {
         System.out.println("Who is here?");
         System.out.println("Hi, its Tashon");
         System.out.println("Yo, this is Arie");
+        System.out.println("Hello, its me Sean");
+
 
     }
 }
