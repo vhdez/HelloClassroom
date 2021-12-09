@@ -10,6 +10,6 @@ public class Hello {
         System.out.println("Hi, its Tashon");
         System.out.println("Hello, its me Sean");
         System.out.println("Hi, its Miles.");
-        System.out.println("Hi, its Terrence ");
+        System.out.println("Hi, its Terrence");
     }
 }
